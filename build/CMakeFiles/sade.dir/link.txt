@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/sade.dir/sade.cpp.o  -o sade 
