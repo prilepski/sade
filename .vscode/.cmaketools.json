@@ -1,0 +1,56 @@
+{
+  "variant": {
+    "label": "Release",
+    "keywordSettings": {
+      "buildType": "release"
+    },
+    "description": "Enable optimizations, omit debug info"
+  },
+  "activeEnvironments": [],
+  "codeModel": {
+    "configurations": [
+      {
+        "name": "Release",
+        "projects": [
+          {
+            "buildDirectory": "/home/dmitri/workspace/sade/build",
+            "name": "sade",
+            "sourceDirectory": "/home/dmitri/workspace/sade",
+            "targets": [
+              {
+                "artifacts": [
+                  "/home/dmitri/workspace/sade/build/sade"
+                ],
+                "buildDirectory": "/home/dmitri/workspace/sade/build",
+                "fileGroups": [
+                  {
+                    "compileFlags": " ",
+                    "includePath": [
+                      {
+                        "path": "/home/dmitri/workspace/sade/include"
+                      }
+                    ],
+                    "isGenerated": false,
+                    "language": "CXX",
+                    "sources": [
+                      "sade.cpp"
+                    ]
+                  }
+                ],
+                "fullName": "sade",
+                "linkFlags": "-rdynamic",
+                "linkerLanguage": "CXX",
+                "name": "sade",
+                "sourceDirectory": "/home/dmitri/workspace/sade",
+                "type": "EXECUTABLE"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "cookie": "0.8171429908857655",
+    "inReplyTo": "codemodel",
+    "type": "reply"
+  }
+}
