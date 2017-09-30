@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/dmitri/workspace/sade/build",
-  "command": "/usr/bin/c++   -I/home/dmitri/workspace/sade/include    -o CMakeFiles/sade.dir/sade.cpp.o -c /home/dmitri/workspace/sade/sade.cpp",
-  "file": "/home/dmitri/workspace/sade/sade.cpp"
-}
-]

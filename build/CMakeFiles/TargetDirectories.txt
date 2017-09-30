@@ -1,3 +1,0 @@
-/home/dmitri/workspace/sade/build/CMakeFiles/rebuild_cache.dir
-/home/dmitri/workspace/sade/build/CMakeFiles/sade.dir
-/home/dmitri/workspace/sade/build/CMakeFiles/edit_cache.dir
